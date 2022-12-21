@@ -1,8 +1,8 @@
 # evasive-stew-6265
-#Tra Clone [FitFinity]
+#Tripadvisor Clone [TravelGo]
 
 
-* [Click Here](tripadvisor-rsoni2843.web.app/) to view the deployed website.
+* [Click Here](https://tripadvisor-rsoni2843.web.app/) to view the deployed website.
 
 <p>
 Tripadvisor is an American online travel company that operates a website and mobile app with user-generated content and a comparison shopping website. It also offers online hotel reservations and bookings for transportation, lodging, travel experiences, and restaurants.Its headquarters are in Needham, Massachusetts. 
@@ -67,12 +67,3 @@ __
 
 
 
-   - ###Diary 
-<img src="https://i.imgur.com/S9vddUS.png" alt="diary" />
-<img src="https://i.imgur.com/AYUMAnA.png" alt="diary" />
-
-
-
-   - ###Plans 
-<img src="https://i.imgur.com/VODu1TB.png" alt="plans1" />
-<img src="https://i.imgur.com/MnnLKc0.png" alt="plans2" />
