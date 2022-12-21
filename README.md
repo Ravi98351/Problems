@@ -6,10 +6,11 @@
 <p>
 Tripadvisor is an American online travel company that operates a website and mobile app with user-generated content and a comparison shopping website. It also offers online hotel reservations and bookings for transportation, lodging, travel experiences, and restaurants.Its headquarters are in Needham, Massachusetts. 
 </p>
+</br>
 
 ## <h2>How to view the project in your computer</h2>
 clone the Repo or download zip file from GitHub </br>
-in terminal write the command </br>
+open file in terminal write the command </br>
 <h3>1.npm i (it install npm package)</h3>
 <h3>2.npm start (it will start the project in localhost)</h3>
 
@@ -23,8 +24,6 @@ in terminal write the command </br>
        
   </ul>
   
-
-
 
 ## Tech Stack
  - ### Frontend 
