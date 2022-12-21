@@ -1,13 +1,11 @@
 # evasive-stew-6265
-# Cronometer Clone [FitFinity]
+#Tra Clone [FitFinity]
 
 
-* [Click Here](https://fitfinity.vercel.app/) to view the deployed website.
- <p align="center"><img  width="200" src="https://i.imgur.com/MNHIt59.jpeg"/img> </p>
+* [Click Here](tripadvisor-rsoni2843.web.app/) to view the deployed website.
+
 <p>
-This was a collaborative construct week project at Masai School.
-Goal behind the project was to create a full stack clone of the Cronometer website as close as possible to the original one with all the major functionalities of this website, such as  Authentication, Landing Page & Dashboard for tracking the nutritions.
-This project was built by a team of 4 developers in 5 Days. 
+Tripadvisor is an American online travel company that operates a website and mobile app with user-generated content and a comparison shopping website. It also offers online hotel reservations and bookings for transportation, lodging, travel experiences, and restaurants.Its headquarters are in Needham, Massachusetts. 
 </p>
 
 
