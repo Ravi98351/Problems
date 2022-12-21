@@ -1,5 +1,4 @@
-# evasive-stew-6265
-#Tripadvisor Clone [TravelGo]
+<h1>Tripadvisor Clone [TravelGo]</h1>
 
 
 * [Click Here](https://tripadvisor-rsoni2843.web.app/) to view the deployed website.
@@ -9,8 +8,8 @@ Tripadvisor is an American online travel company that operates a website and mob
 </p>
 
 
-<h3>Team</h3>
-_
+#<h3>Team</h3
+ <hr/>
  <ul>
         <li>Sushant Kumar Sonu</li>
         <li>Nipendra Soni</li>
@@ -48,19 +47,19 @@ _
 
 
  ## Glipms of project
-__
 
-   <h3>Homepage</h3>
+
+ ###<h2>Homepage</h2>
 ![Screenshot (428)](https://user-images.githubusercontent.com/104033147/208871017-2f9fb014-32b6-4eda-b70b-fb16d91715ae.png)
 
 
- <h3>Login</h3>
+ ###<h2>Login</h2>
 ![Screenshot (429)](https://user-images.githubusercontent.com/104033147/208871107-7393b52a-956f-4e44-a5ae-2bcfdc99d94c.png)
 
 
 
 
-   <h3>Sign up</h3>
+ ###<h2>Sign up</h2>
 ![Screenshot (430)](https://user-images.githubusercontent.com/104033147/208871150-be7c1476-5ed8-469d-9a50-1eea4a5a3719.png)
 
 
