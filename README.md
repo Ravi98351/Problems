@@ -8,8 +8,8 @@ Tripadvisor is an American online travel company that operates a website and mob
 </p>
 
 
-#<h3>Team</h3
- <hr/>
+## Team
+
  <ul>
         <li>Sushant Kumar Sonu</li>
         <li>Nipendra Soni</li>
